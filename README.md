@@ -1,18 +1,7 @@
-### Hi
+### Hi 
 
 <!--
 **SeraphyBR/SeraphyBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 - I'm currently a computer science student :green_book:
 - I'm currently learning [Rust](https://www.rust-lang.org/), and it's already my favorite language.
@@ -21,6 +10,3 @@ Here are some ideas to get you started:
 
 
 ![SeraphyBR's github stats](https://github-readme-stats.vercel.app/api?username=SeraphyBR&show_icons=true&theme=vue)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphyBR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
