@@ -9,4 +9,4 @@
 - My favorite color is green :four_leaf_clover:
 - I :heart: LINUX, a lot :computer:
 
-![SeraphyBR's github stats](https://github-readme-stats.vercel.app/api?username=SeraphyBR&show_icons=true&theme=vue)
+![SeraphyBR's github stats](https://github-readme-stats.vercel.app/api?username=SeraphyBR&show_icons=true&theme=vue-dark)
